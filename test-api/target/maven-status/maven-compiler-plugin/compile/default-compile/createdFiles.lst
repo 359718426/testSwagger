@@ -1,0 +1,4 @@
+com\lvxin\test\service\Test1Service.class
+com\lvxin\test\common\Result.class
+com\lvxin\test\vo\query\test1\TestQueryVo.class
+com\lvxin\test\common\ServiceResult.class

@@ -1,0 +1,5 @@
+com\lvxin\test\web\controller\TestController.class
+com\lvxin\test\service\impl\TestServiceImpl.class
+com\lvxin\test\web\config\WebConfig.class
+com\lvxin\test\TestApplication.class
+com\lvxin\test\web\config\SwaggerConfig.class
